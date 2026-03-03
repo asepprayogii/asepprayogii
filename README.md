@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Saya adalah seorang Mahasiswa Teknik Informatika yang tertarik dengan Data
 
 
