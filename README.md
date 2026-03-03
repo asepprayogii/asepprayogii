@@ -12,9 +12,6 @@ Saya adalah seorang Mahasiswa Teknik Informatika yang tertarik dengan Data
 ![](https://nirzak-streak-stats.vercel.app/?user=asepprayogii&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asepprayogii&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=asepprayogii&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
